@@ -35,6 +35,7 @@ This project focuses on building a machine learning pipeline to predict sales (`
 ## Dataset
 
 Dataset description can be found at https://drive.google.com/file/d/1DrAqBM1YGmxFK7uWA_mTKVMxEC5kqVRh/view
+
 The dataset includes the following columns:
 
 - **date**: Date of sales.
